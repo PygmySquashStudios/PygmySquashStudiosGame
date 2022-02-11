@@ -12,7 +12,7 @@ _Created By_
 
 
 [tech demo web](/Web Demo Test/DescentIntoAmphoraTechDemo/index.html)
-[tech demo download](DescentIntoAmphoraTechDemo.zip )
+[tech demo download](Web Demo Test/DescentIntoAmphoraTechDemo.zip )
 
 
 
