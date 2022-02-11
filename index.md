@@ -11,7 +11,7 @@ _Created By_
 **Sasha Schneider**
 
 
-[tech demo web](/DescentIntoAmphoraTechDemo/index.html)
+[tech demo web](/Web Demo Test/DescentIntoAmphoraTechDemo/index.html)
 [tech demo download](DescentIntoAmphoraTechDemo.zip )
 
 
