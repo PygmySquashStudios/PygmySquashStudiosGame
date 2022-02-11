@@ -1,3 +1,5 @@
+![logo](Studio_logo_2_light_edge.png)
+
 ## Welcome To Descent Into Amphora
 
 ## By Pygmy Squash Studios
