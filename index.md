@@ -15,4 +15,4 @@ _Created By_ <br>
 
 -[tech demo web](DescentTechDemoV0.2) <br>
 -[tech demo download](DescentTechDemoV0.2.zip)
--[tech demo web](www)
+-[vertical slice web](www)
