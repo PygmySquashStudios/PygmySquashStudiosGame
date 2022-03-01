@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"MedusaLevel1","order":8,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":9,"expanded":false,"name":"MedusaLevel2","order":9,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":10,"expanded":false,"name":"MedusaLevel3","order":10,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":11,"expanded":true,"name":"MedusaLevelFinal","order":11,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":11,"expanded":true,"name":"MedusaLevelFinal","order":11,"parentId":0,"scrollX":980.4,"scrollY":536.4}
 ]
