@@ -15,5 +15,5 @@ _Created By_ <br>
 
 -[tech demo web](DescentTechDemoV0.2) <br>
 -[tech demo download](DescentTechDemoV0.2.zip)
--[vertical slice web](VerticalSliceWeb)
+-[vertical slice web](VerticalWebSlice)
 -[vertical slice download](VerticalWebSlice.zip)
