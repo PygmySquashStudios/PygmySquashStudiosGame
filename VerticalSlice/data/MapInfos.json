@@ -20,7 +20,7 @@ null,
 {"id":18,"expanded":false,"name":"Jigsaw 2","order":12,"parentId":0,"scrollX":594.9090909090909,"scrollY":329.45454545454544},
 {"id":19,"expanded":false,"name":"Jigsaw 3","order":13,"parentId":0,"scrollX":545.3333333333334,"scrollY":302},
 null,
-{"id":21,"expanded":false,"name":"PandoraLevel1","order":14,"parentId":0,"scrollX":1090.6666666666667,"scrollY":604},
+{"id":21,"expanded":false,"name":"PandoraLevel1","order":14,"parentId":0,"scrollX":540,"scrollY":322},
 {"id":22,"expanded":false,"name":"PandoraLevel2","order":15,"parentId":0,"scrollX":655.2,"scrollY":366.4},
 {"id":23,"expanded":false,"name":"PandoraLevel3","order":16,"parentId":0,"scrollX":594.9090909090909,"scrollY":329.45454545454544},
 {"id":24,"expanded":false,"name":"PandoraLevelFinal","order":17,"parentId":0,"scrollX":819,"scrollY":461}
