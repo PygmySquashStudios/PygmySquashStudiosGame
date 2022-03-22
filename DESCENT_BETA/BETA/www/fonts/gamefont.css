@@ -1,6 +1,6 @@
 @font-face {
   font-family: GameFont;
-  src: url("BOD_R.ttf");
+  src: url("BOD_R.TTF");
 }
 
 .IIV::-webkit-media-controls-play-button,
