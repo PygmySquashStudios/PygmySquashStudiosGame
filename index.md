@@ -9,7 +9,8 @@ _Created By_ <br>
 -**Dominique White** <br>
 -**Grace Fu** <br>
 -**Jaden Huang** <br>
--**Sasha Schneider**
+-**Sasha Schneider** <br>
+-**Johnas Wong**
 
 
 -[tech demo web](DescentTechDemoV0.2) <br>
