@@ -9,7 +9,6 @@ _Created By_ <br>
 -**Dominique White** <br>
 -**Grace Fu** <br>
 -**Jaden Huang** <br>
--**Jenn Benkovich** <br>
 -**Sasha Schneider**
 
 
@@ -17,3 +16,6 @@ _Created By_ <br>
 -[tech demo download](DescentTechDemoV0.2.zip)
 -[vertical slice web](VerticalWebSlice/VerticalSlice/www)
 -[vertical slice download](VerticalWebSlice.zip)
+
+-[beta web] (DESCENT_BETA/BETA/www)
+-[beta download] (DESCENT_BETA.zip)
