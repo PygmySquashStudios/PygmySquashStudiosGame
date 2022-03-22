@@ -17,5 +17,5 @@ _Created By_ <br>
 -[vertical slice web](VerticalWebSlice/VerticalSlice/www)
 -[vertical slice download](VerticalWebSlice.zip)
 
--[beta web] (DESCENT_BETA/BETA/www)
--[beta download] (DESCENT_BETA.zip)
+-[beta web](DESCENT_BETA/BETA/www)
+-[beta download](DESCENT_BETA.zip)
