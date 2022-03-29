@@ -21,6 +21,9 @@ _Created By_ <br>
 -[beta web](DESCENT_BETA/BETA/www)
 -[beta download](DESCENT_BETA.zip)
 
+-[improved web beta](BETA_WINDOWS/www)
+-[better beta download](BETA_WINDOWS.zip)
+
 Survey Link:https://docs.google.com/forms/d/e/1FAIpQLSfCT7QjBWvr5qbzetZMFgghxfQDEhXi2xSogbhTgOSz7AdM0g/viewform
 
 CONTROLS:
