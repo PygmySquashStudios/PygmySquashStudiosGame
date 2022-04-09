@@ -1,9 +1,9 @@
 /*:
- * @plugindesc Skip video on key press
- * @author Dmytryk (Dmy, Demetrius)
+ * @plugindesc Skip video on key press twice
+ * @author Dmytryk (Dmy, Demetrius) + Grace edit
  *
  * @help This plugin allows to skip videos by pressing the Escape key
- * or Enter key.
+ * or Enter key twice. 
  *
  * This plugin relies on MV’s private variables so it is essentially A HACK.
  * It may break in future versions. But for now, it works fine.
@@ -57,6 +57,7 @@ Imported.DMY_SkipVideo = '0.1';
   }
 
   var _Scene_Map_update = Scene_Map.prototype.update;
+  var counter = 0;
   Scene_Map.prototype.update = function () {
     if (Graphics.isVideoPlaying() && (Input.isTriggered('menu')
                                         || Input.isTriggered('escape')
@@ -66,8 +67,12 @@ Imported.DMY_SkipVideo = '0.1';
                                   && videoIsSkippable()) {
       if ('_video' in Graphics && 'pause' in Graphics._video
                               && typeof Graphics._video.pause === 'function') {
-        Graphics._video.pause();
-        Graphics._onVideoEnd();
+        counter += 1;
+        if (counter == 2) {
+          counter = 0;
+          Graphics._video.pause();
+          Graphics._onVideoEnd();
+        }
       }
     }
     else {
