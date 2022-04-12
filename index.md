@@ -21,33 +21,24 @@ _Created By_ <br>
 
 
 -[gold web release](GOLD_WEB/www)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 -[beta web](DESCENT_BETA/BETA/www)
 -[beta download](DESCENT_BETA.zip)
