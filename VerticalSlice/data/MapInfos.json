@@ -23,5 +23,5 @@ null,
 {"id":21,"expanded":false,"name":"PandoraLevel1","order":14,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":22,"expanded":false,"name":"PandoraLevel2","order":15,"parentId":0,"scrollX":413.3333333333333,"scrollY":398.22222222222223},
 {"id":23,"expanded":false,"name":"PandoraLevel3","order":16,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":24,"expanded":false,"name":"PandoraLevelFinal","order":17,"parentId":0,"scrollX":540.6666666666666,"scrollY":331}
+{"id":24,"expanded":false,"name":"PandoraLevelFinal","order":17,"parentId":0,"scrollX":819,"scrollY":453}
 ]
